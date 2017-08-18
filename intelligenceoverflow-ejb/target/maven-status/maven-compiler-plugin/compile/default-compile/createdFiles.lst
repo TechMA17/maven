@@ -3,3 +3,4 @@ sg\com\citi\intelligenceoverflow\util\Resources.class
 sg\com\citi\intelligenceoverflow\model\Member.class
 sg\com\citi\intelligenceoverflow\data\MemberListProducer.class
 sg\com\citi\intelligenceoverflow\data\MemberRepository.class
+sg\com\citi\intelligenceoverflow\service\Extractor.class

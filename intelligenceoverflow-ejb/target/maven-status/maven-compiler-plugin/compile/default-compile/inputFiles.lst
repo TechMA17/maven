@@ -1,5 +1,6 @@
-C:\JavaEEWorkspace\intelligenceoverflow\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\util\Resources.java
-C:\JavaEEWorkspace\intelligenceoverflow\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\data\MemberListProducer.java
-C:\JavaEEWorkspace\intelligenceoverflow\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\service\MemberRegistration.java
-C:\JavaEEWorkspace\intelligenceoverflow\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\data\MemberRepository.java
-C:\JavaEEWorkspace\intelligenceoverflow\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\model\Member.java
+C:\Users\hafiz\Desktop\MavenProject\maven\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\data\MemberListProducer.java
+C:\Users\hafiz\Desktop\MavenProject\maven\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\model\Member.java
+C:\Users\hafiz\Desktop\MavenProject\maven\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\service\Extractor.java
+C:\Users\hafiz\Desktop\MavenProject\maven\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\service\MemberRegistration.java
+C:\Users\hafiz\Desktop\MavenProject\maven\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\data\MemberRepository.java
+C:\Users\hafiz\Desktop\MavenProject\maven\intelligenceoverflow-ejb\src\main\java\sg\com\citi\intelligenceoverflow\util\Resources.java

@@ -25,6 +25,7 @@ import javax.inject.Inject;
 import javax.inject.Named;
 
 import sg.com.citi.intelligenceoverflow.model.Member;
+import sg.com.citi.intelligenceoverflow.service.Extractor;
 import sg.com.citi.intelligenceoverflow.service.MemberRegistration;
 
 // The @Model stereotype is a convenience mechanism to make this a request-scoped bean that has an
@@ -40,8 +41,10 @@ public class MemberController {
     @Inject
     private MemberRegistration memberRegistration;
 
+    @Inject
+    private Extractor extractor;
     private Member newMember;
-
+    
     @Produces
     @Named
     public Member getNewMember() {
@@ -49,7 +52,9 @@ public class MemberController {
     }
 
     public void register() throws Exception {
-        try {
+    	extractor.testFunction();
+    	extractor.extractLines(null);
+        try { 
             memberRegistration.register(newMember);
             facesContext.addMessage(null,
                     new FacesMessage(FacesMessage.SEVERITY_INFO, "Registered!", "Registration successful"));

@@ -1,0 +1,4 @@
+sg\com\citi\intelligenceoverflow\rest\JaxRsActivator.class
+sg\com\citi\intelligenceoverflow\util\WebResources.class
+sg\com\citi\intelligenceoverflow\controller\MemberController.class
+sg\com\citi\intelligenceoverflow\rest\MemberResourceRESTService.class
